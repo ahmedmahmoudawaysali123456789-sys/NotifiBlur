@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NotifBlur</string>
+    <string name="xposed_description">Blur for the notification shade</string>
+</resources>
